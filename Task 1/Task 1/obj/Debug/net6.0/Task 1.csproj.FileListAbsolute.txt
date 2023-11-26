@@ -1,0 +1,4 @@
+C:\Hueta\Project 2\Task 1\Task 1\obj\Debug\net6.0\Task 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Hueta\Project 2\Task 1\Task 1\obj\Debug\net6.0\Task 1.AssemblyInfoInputs.cache
+C:\Hueta\Project 2\Task 1\Task 1\obj\Debug\net6.0\Task 1.AssemblyInfo.cs
+C:\Hueta\Project 2\Task 1\Task 1\obj\Debug\net6.0\Task 1.csproj.CoreCompileInputs.cache
